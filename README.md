@@ -8,4 +8,4 @@ handwritten digit data if it isn't present, but the other two datasets do need t
 
 Our report is found in Report.pdf, and our initial draft of the progress report can be found in ProgressReport.pdf.
 
-Our pdf slide deck is the Presentation.pdf file, and our presentation video can be seen here: 
+Our pdf slide deck is the Presentation.pdf file, and our presentation video can be seen here: https://rpi.box.com/s/favphdrnhykhm57kmv4dkyf0nhnkee2v
